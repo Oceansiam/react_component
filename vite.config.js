@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // uncommet this before build but comment it after build
-  // base: '/react_test_experiment/',
+  base: '/react_component/',
 })
